@@ -1,5 +1,3 @@
-# TSP SOLVED FOR GPMOBILE
-
 #WHAT YOU NEED
 #     - API Key from Map Developer  ----> MyAppKey
 #     - URL for map --------------------> Map
